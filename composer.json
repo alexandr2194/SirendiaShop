@@ -1,0 +1,13 @@
+{
+    "name": "irina/internet-shop",
+    "description": "Internet shop project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Irina Struy",
+            "email": "hello-ira@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
